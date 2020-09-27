@@ -1,1 +1,1 @@
-# Source code from (this) [https://www.udemy.com/course/selenium-with-c] Udemy course
+# Source code from [this](https://www.udemy.com/course/selenium-with-c) Udemy course
